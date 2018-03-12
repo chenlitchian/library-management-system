@@ -8,6 +8,7 @@ Library management system using PHP and MySQL
 4. go to admin login
 
 username: admin
+
 password: Test@123
 
 <img src="https://github.com/chenlitchian/library-management-system/blob/master/screenshot/login.png" width="500">

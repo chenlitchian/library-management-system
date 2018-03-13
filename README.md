@@ -18,8 +18,8 @@ password: Test@123
 
 ## Built With
 
-* [Php]
-* [MySQL]
+* Php
+* MySQL
 
 
 ## Screenshot

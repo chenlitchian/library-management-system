@@ -6,9 +6,9 @@ Library management system using PHP and MySQL
 ## Developing
 
 ### First, import SQL to database
-
+`
 lms.sql
-
+`
 ### Then clone project on localhost:
 
 ### Log in to admin

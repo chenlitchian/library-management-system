@@ -1,15 +1,23 @@
 # library-management-system
 Library management system using PHP and MySQL
 
+## Developing
 
-1. import lms.sql to your database
-2. Clone project to your localhost 
-3. Log in
-4. go to admin login
+### First, import SQL to database
 
+lms.sql
+
+### Then clone project on localhost:
+
+### Log in to admin
+
+```
 username: admin
-
 password: Test@123
+```
+
+
+## Screenshot
 
 <img src="https://github.com/chenlitchian/library-management-system/blob/master/screenshot/login.png" width="500">
 

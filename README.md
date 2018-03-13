@@ -16,6 +16,11 @@ username: admin
 password: Test@123
 ```
 
+## Built With
+
+* [Php]
+* [MySQL]
+
 
 ## Screenshot
 

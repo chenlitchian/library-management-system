@@ -1,6 +1,6 @@
 # library-management-system
 Library management system using PHP and MySQL
-[Website Example]: (https://heidy87.000webhostapp.com/adminlogin.php)
+[Website Example](https://heidy87.000webhostapp.com/adminlogin.php)
 
 ## Developing
 

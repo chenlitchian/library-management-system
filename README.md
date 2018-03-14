@@ -1,7 +1,7 @@
 # library-management-system
 Library management system using PHP and MySQL
 
-[DEMO](https://heidy87.000webhostapp.com/adminlogin.php)
+[DEMO](https://heidy87.000webhostapp.com/)
 
 ## Developing
 
@@ -10,6 +10,18 @@ Library management system using PHP and MySQL
 lms.sql
 `
 ### Then clone project on localhost:
+
+### Modify include/config.php with your database credential
+
+`
+// DB credentials.
+define('DB_HOST','localhost');
+define('DB_USER','root'); // db username
+define('DB_PASS',''); // db user password
+define('DB_NAME','library'); //db name
+// Establish database connection.
+
+`
 
 ### Log in to admin
 

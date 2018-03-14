@@ -13,7 +13,7 @@ lms.sql
 
 ### Modify include/config.php with your database credential
 
-`
+```
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','root'); // db username
@@ -21,7 +21,7 @@ define('DB_PASS',''); // db user password
 define('DB_NAME','library'); //db name
 // Establish database connection.
 
-`
+```
 
 ### Log in to admin
 
